@@ -1,11 +1,8 @@
 ### Hi there 👋
 
-"C:\Users\kpgou\Downloads\AvatarMaker.png"
 
-<!--
-**karinaornelas24/karinaornelas24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![AvatarMaker](https://user-images.githubusercontent.com/75212858/149626493-d89f5190-907d-425d-802e-9e9cb0fada02.png)
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

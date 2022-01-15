@@ -2,7 +2,7 @@
 
 ![AvatarMaker](https://user-images.githubusercontent.com/75212858/149626493-d89f5190-907d-425d-802e-9e9cb0fada02.png)
 
-- 👧🏻 I'm Brazilian living in Porto, Portugal
+- 👧🏻 I'm a Brazilian living in Porto, Portugal
 - 🔭 I’m interested in Front End Development
 - 👯 I’m studying programming since 2020
 
